@@ -1,0 +1,3 @@
+src: lakefs://seattle-ds-demo/oz-exp1/datasets/alpaca_training_imgs/
+at_head: 3b02a88faf21c9cf9dbeb3deb63f29c6890db7a6432fbe8a7821ab5e72ea091d
+active_operation: ""

@@ -1,3 +1,10 @@
 *.pyo
 *.pyc
 .DS_Store
+
+# ignored by lakectl local
+input/*
+!input/.lakefs_ref.yaml
+models/*
+!models/.lakefs_ref.yaml
+# End ignored by lakectl local
